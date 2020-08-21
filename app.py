@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 20 12:29:14 2020
 
-@author: RUBY
-"""
 
 import numpy as np
 from flask import Flask, request, render_template
